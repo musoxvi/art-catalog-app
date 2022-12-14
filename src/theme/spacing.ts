@@ -1,0 +1,28 @@
+import {normalizeVertical, normalizeHorizontal} from './normalize';
+
+export const Spacing = {
+  space4V: normalizeVertical(4),
+  space4H: normalizeHorizontal(4),
+  space8V: normalizeVertical(8),
+  space8H: normalizeHorizontal(8),
+  space12V: normalizeVertical(12),
+  space12H: normalizeHorizontal(12),
+  space16V: normalizeVertical(16),
+  space16H: normalizeHorizontal(16),
+  space20V: normalizeVertical(20),
+  space20H: normalizeHorizontal(20),
+  space24V: normalizeVertical(24),
+  space24H: normalizeHorizontal(24),
+  space28V: normalizeVertical(28),
+  space28H: normalizeHorizontal(28),
+  space32V: normalizeVertical(32),
+  space32H: normalizeHorizontal(32),
+  space36V: normalizeVertical(36),
+  space36H: normalizeHorizontal(36),
+  space40V: normalizeVertical(40),
+  space40H: normalizeHorizontal(40),
+  space44V: normalizeVertical(44),
+  space44H: normalizeHorizontal(44),
+  space52V: normalizeVertical(52),
+  space52H: normalizeHorizontal(52),
+};

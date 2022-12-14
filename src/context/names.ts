@@ -1,0 +1,4 @@
+export enum NAMES {
+  SET_ARTWORKS = 'SET_ARTWORKS',
+  SET_LOADING = 'SET_LOADING',
+}
